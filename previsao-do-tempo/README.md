@@ -1,14 +1,17 @@
+## 📋 Previsão  do Tempo
+Projeto pessoal para estudo e melhor compreensão sobre React
+## 🧐 Sobre
+Esse é um projeto de consulta de previsão do tempo, onde o usuario digita a localização e através de uma requisição de API, obtemos o clima da região solicitada.
+## 🤖🛠️ Tecnologias e ferramentas utilizadas
+- HTML5
+- CSS3
+- Javascript
+- React
+- Node js
+- Consumo de API
+## 🖼️ Projeto
 <p align="center">
   <img src="./src/assets/background.png" width="100%"/>
 </p>
+<a href="https://brunosts94.github.io/P/Projetos-React-Portifolio">Visualize o Site aqui
 
-## 📋 Projeto
-Esse é um projeto web para consulta de previsão do tempo, onde utilizei como tecnologia para desenvolvimento React, consumindo uma API para obter informações referentes a previsão do tempo.
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- CSS
-- ReactJs
-
-<a href="https://brunosts94.github.io/MeuPortifolio/proj-react-prevTempo/index.html">Visualize o Site aqui
